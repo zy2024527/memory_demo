@@ -52,3 +52,7 @@ For support, questions, or feedback regarding the MemoryDemo Crew or crewAI.
 - [Chat with our docs](https://chatg.pt/DWjSBZn)
 
 Let's create wonders together with the power and simplicity of crewAI.
+
+
+crewai的memory示例，step2有两个版本，1是缺省，2是指定。
+agent的memory参数无效，memory主要是crew的memory。
